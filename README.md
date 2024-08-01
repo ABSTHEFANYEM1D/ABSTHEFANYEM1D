@@ -1,6 +1,6 @@
 - Oie 👋
 - Bem vindo ao meu perfil 🧚
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 🌻
 
 
